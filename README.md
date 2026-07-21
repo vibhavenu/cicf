@@ -27,14 +27,14 @@ A simple and responsive **Project Management System** developed using **HTML, CS
 
 ## Project Structure
 
-
+```
 Project-Management-System/
 │
 ├── dashboard.html
 └── README.md
+```
 
-
-This project is implemented as a single HTML file containing embedded CSS and JavaScript.
+> This project is implemented as a single HTML file containing embedded CSS and JavaScript.
 
 ## Demo Login Credentials
 
