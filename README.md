@@ -30,7 +30,7 @@ A simple and responsive **Project Management System** developed using **HTML, CS
 ```
 Project-Management-System/
 │
-├── dashboard.html
+├── index.html
 └── README.md
 ```
 
@@ -48,13 +48,13 @@ Project-Management-System/
 
 1. Download or clone the repository.
 2. Open the project folder.
-3. Open `dashboard.html` in any modern web browser.
+3. Open `index.html` in any modern web browser.
 
 ### Method 2 (Recommended)
 
 1. Open the project in Visual Studio Code.
 2. Install the **Live Server** extension.
-3. Right-click `dashboard.html`.
+3. Right-click `index.html`.
 4. Select "Open with Live Server".
 
 ## Dashboard Modules
