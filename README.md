@@ -34,7 +34,7 @@ Project-Management-System/
 └── README.md
 
 
-> This project is implemented as a single HTML file containing embedded CSS and JavaScript.
+This project is implemented as a single HTML file containing embedded CSS and JavaScript.
 
 ## Demo Login Credentials
 
